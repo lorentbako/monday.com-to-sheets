@@ -17,7 +17,7 @@ for the same board with different filters.)
   ![image](https://github.com/lorentbako/monday.com-to-sheets/assets/10836062/6e9ce3a0-3e46-44a5-bbda-53406a7d92fe)
   1.2. Run the function "Get Board Details" from the Menu "Update".
   ![image](https://github.com/lorentbako/monday.com-to-sheets/assets/10836062/bfa13f64-53df-4aec-881b-832b5d55ac64)
-2. After the Board details have been retrieved successfully you can get the Data from the board using filters.
+3. After the Board details have been retrieved successfully you can get the Data from the board using filters.
   2.1. You can filter columns by checking in range C2:C for the column name in the range A2:A 
   (if you dont check any columns all the columns will be retrieved)
   2.2. You can filter groups by checking in range K2:K for the group name in the range I2:I 
