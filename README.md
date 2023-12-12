@@ -4,9 +4,9 @@ Get details from Monday GraphQL API directly into google sheets, using app scrip
 First you need to create a spreadsheet with these specifics:
 1. Create two sheets one called "Board" and the other "BoardData".
 2. On the "Board" Sheet:
-  2.1. A1: "Column Title", B1: "Column ID", C1: "GET".
-  2.2. F1: "Board ID:", F2: "Nr of Items:", F4: "Board Name:".
-  2.3. I1: "Group Title", J1: "Group ID", K1: "GET".
+  \n2.1. A1: "Column Title", B1: "Column ID", C1: "GET".
+  \n2.2. F1: "Board ID:", F2: "Nr of Items:", F4: "Board Name:".
+  \n2.3. I1: "Group Title", J1: "Group ID", K1: "GET".
 3. On the "BoardData" sheet should be blank (It also clears each time you get the data for a new board or 
 for the same board with different filters.)
 ![image](https://github.com/lorentbako/monday.com-to-sheets/assets/10836062/21da4007-dde6-43fc-a148-06bac68a72b2)
